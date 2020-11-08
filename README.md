@@ -9,8 +9,8 @@ This website serves as practice for navigating the DOM through javascript webpag
 You can download the files from GitHub, open them in VS Code, and use "run from browser" to run the page from your own computer.
 
 Alternatively, you can visit the github links I created: 
-URL of deployed webpage: 
-URL of GitHub repository: 
+URL of deployed webpage: https://cjrhansen2.github.io/codingquiz-hw4/
+URL of GitHub repository: https://github.com/cjrhansen2/codingquiz-hw4
 
 ## Usage
 
